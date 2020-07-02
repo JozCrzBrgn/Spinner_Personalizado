@@ -1,0 +1,12 @@
+<resources>
+    // Nombre del Tab
+    <string name="app_name">App Spinner</string>
+    // EditText
+    <string name="xml_num1">Ingresa el primer número</string>
+    <string name="xml_num2">Ingresa el segundo número</string>
+    // Button
+    <string name="xml_button">Calcular</string>
+    // TextView
+    <string name="xml_resul">Resultados</string>
+
+</resources>
